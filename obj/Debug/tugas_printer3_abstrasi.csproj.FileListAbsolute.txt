@@ -1,0 +1,8 @@
+D:\Pemrograman C#\praktikum 11\tugas_printer3_abstrasi\tugas_printer3_abstrasi\bin\Debug\tugas_printer3_abstrasi.exe.config
+D:\Pemrograman C#\praktikum 11\tugas_printer3_abstrasi\tugas_printer3_abstrasi\bin\Debug\tugas_printer3_abstrasi.exe
+D:\Pemrograman C#\praktikum 11\tugas_printer3_abstrasi\tugas_printer3_abstrasi\bin\Debug\tugas_printer3_abstrasi.pdb
+D:\Pemrograman C#\praktikum 11\tugas_printer3_abstrasi\tugas_printer3_abstrasi\obj\Debug\tugas_printer3_abstrasi.csproj.AssemblyReference.cache
+D:\Pemrograman C#\praktikum 11\tugas_printer3_abstrasi\tugas_printer3_abstrasi\obj\Debug\tugas_printer3_abstrasi.csproj.SuggestedBindingRedirects.cache
+D:\Pemrograman C#\praktikum 11\tugas_printer3_abstrasi\tugas_printer3_abstrasi\obj\Debug\tugas_printer3_abstrasi.csproj.CoreCompileInputs.cache
+D:\Pemrograman C#\praktikum 11\tugas_printer3_abstrasi\tugas_printer3_abstrasi\obj\Debug\tugas_printer3_abstrasi.exe
+D:\Pemrograman C#\praktikum 11\tugas_printer3_abstrasi\tugas_printer3_abstrasi\obj\Debug\tugas_printer3_abstrasi.pdb
